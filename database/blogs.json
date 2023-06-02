@@ -1,0 +1,25 @@
+[
+  {
+    "id": 2,
+    "title": "Shurikdan iltimos ",
+    "text": "Iltimos sekinroq ayta olmaysizmi yozayotgan edim :)",
+    "author": "MR Shurik",
+    "user_id": 3,
+    "created": "2023-06-02T20:33:51.833Z"
+  },
+  {
+    "id": 3,
+    "title": "Payzullaaa ",
+    "text": "Payzulla manaqqacha kel o'lib qolsangam",
+    "author": "Mr Payzulla",
+    "user_id": 3,
+    "created": "2023-06-02T20:36:54.312Z"
+  },
+  {
+    "id": 4,
+    "text": "qwerty",
+    "author": "MR Bean",
+    "user_id": 4,
+    "created": "2023-06-02T20:59:33.770Z"
+  }
+]

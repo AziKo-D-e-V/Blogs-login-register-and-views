@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "blog_id": null,
+    "user_id": 3
+  },
+  {
+    "id": 2,
+    "blog_id": null,
+    "user_id": 4
+  }
+]
